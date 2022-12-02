@@ -1,6 +1,6 @@
 # escape-game
-#Explication :
-##Fonctionnalités :
+# Explication :
+## Fonctionnalités :
 - Chatbot : 
 Discussion normale jusqu'à l’utilisateur saisi le mot clé et passe à la 2eme énigme 
 - 2eme énigme :
